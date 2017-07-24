@@ -13,7 +13,8 @@ Philosphy
 Example
 -------
 
-Example of how to use SCMS is in example folder.
+Example of how to use SCMS is in `example folder
+<https://github.com/martin-majlis/SCMS/tree/master/example>`_.
 
 You should check out following URLs:
 
